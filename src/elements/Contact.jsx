@@ -56,8 +56,7 @@ class Contact extends Component{
                                     </div>
                                     <div className="inner">
                                         <h4 className="title">Contact With Phone Number</h4>
-                                        <p><a href="tel:+057 254 365 456">+057 254 365 456</a></p>
-                                        <p><a href="tel:+856 325 652 984">+856 325 652 984</a></p>
+                                        <p><a href="tel:+84 355 821 097">+84 355 821 097</a></p>
                                     </div>
                                 </div>
                             </div>
@@ -71,8 +70,7 @@ class Contact extends Component{
                                     </div>
                                     <div className="inner">
                                         <h4 className="title">Email Address</h4>
-                                        <p><a href="mailto:admin@gmail.com">admin@gmail.com</a></p>
-                                        <p><a href="mailto:example@gmail.com">example@gmail.com</a></p>
+                                        <p><a href="mailto:nvphvn@gmail.com">nvphvn@gmail.com</a></p>
                                     </div>
                                 </div>
                             </div>
@@ -86,7 +84,7 @@ class Contact extends Component{
                                     </div>
                                     <div className="inner">
                                         <h4 className="title">Location</h4>
-                                        <p>5678 Bangla Main Road, cities 580 <br /> GBnagla, example 54786</p>
+                                        <p>298 Nguyen Sinh Sac Street, Da Nang City</p>
                                     </div>
                                 </div>
                             </div>
@@ -111,8 +109,8 @@ class Contact extends Component{
                         defaultZoom={this.props.zoom}
                         >
                         <AnyReactComponent
-                            lat={59.955413}
-                            lng={30.337844}
+                            lat={108.1588771}
+                            lng={ 16.0697052 }
                             text="My Marker"
                         />
                         </GoogleMapReact>
